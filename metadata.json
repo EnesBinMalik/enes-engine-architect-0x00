@@ -1,0 +1,6 @@
+{
+  "name": "ENES ENGINE: ARCHITECT 0x00",
+  "description": "Enes Öztürk'ün mikro-mimari dünyasında saf x86-64/ARM donanım hackleme, JIT derleme ve siber-mühendislik aksiyon simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
